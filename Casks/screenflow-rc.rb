@@ -12,4 +12,7 @@ cask 'screenflow-rc' do
   depends_on macos: '>= :yosemite'
 
   app 'ScreenFlow.app'
+
+  caveat "in terminal execute command before run app first time: sudo spctl --master-disable"
+
 end
