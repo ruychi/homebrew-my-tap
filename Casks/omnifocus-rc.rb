@@ -23,5 +23,8 @@ cask 'omnifocus-rc' do
                   '~/Library/Group Containers/34YW5XSRB7.com.omnigroup.OmniFocus',
                   "~/Library/Saved Application State/com.omnigroup.OmniFocus#{version}.savedState",
                 ]
+  
+  caveats "http://amorimcruz.myqnapcloud.com/apps/OmniFocus-2.11-SERIAL.txt"
+
 
 end
