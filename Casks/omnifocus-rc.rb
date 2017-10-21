@@ -2,7 +2,7 @@ cask 'omnifocus-rc' do
 
     version '2.11'
     sha256 :no_check
-    url "http://http://amorimcruz.myqnapcloud.com/apps/OmniFocus-#{version}.dmg"
+    url "http://amorimcruz.myqnapcloud.com/apps/OmniFocus-#{version}.dmg"
 
 
   # appcast "https://update.omnigroup.com/appcast/com.omnigroup.OmniFocus#{version.major}",
