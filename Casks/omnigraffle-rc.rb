@@ -1,4 +1,4 @@
-cask 'omnigraffle' do
+cask 'omnigraffle-rc' do
 
     version '7.4.3'
     sha256 :no_check
