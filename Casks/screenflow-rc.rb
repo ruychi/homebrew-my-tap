@@ -13,6 +13,6 @@ cask 'screenflow-rc' do
 
   app 'ScreenFlow.app'
 
-  caveat "in terminal execute command before run app first time: sudo spctl --master-disable"
+  caveats "in terminal execute command before run app first time: sudo spctl --master-disable"
 
 end
